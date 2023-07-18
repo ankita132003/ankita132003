@@ -1,4 +1,6 @@
 ### Hi there, I'm Ankita 👋
+
+<img align="left" width="47%" margin="30px" src="https://github-readme-stats.vercel.app/api?username=ankita132003&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
